@@ -1,7 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    margin: 50px;
+/*     margin: 50px; */
+    height: 100vh;
 /*     background: rgb(243, 204, 204); */
     background: linear-gradient(#e66465, #9198e5);
 }
