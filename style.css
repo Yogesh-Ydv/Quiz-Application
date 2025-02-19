@@ -2,7 +2,8 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 50px;
-    background: rgb(243, 204, 204);
+/*     background: rgb(243, 204, 204); */
+    background: linear-gradient(#e66465, #9198e5);
 }
 .quiz-container {
     max-width: 500px;
